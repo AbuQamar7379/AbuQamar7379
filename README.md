@@ -74,6 +74,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AbuQamar7379&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aftab0012&icon=3&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AbuQamar7379&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
